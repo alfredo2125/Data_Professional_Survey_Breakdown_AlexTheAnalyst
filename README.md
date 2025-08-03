@@ -24,4 +24,4 @@ The Project Objective is to import an existing Excel file using real data into P
 
 
 # Conclusion
-- The interactive Dashboard created transforms the data imported from excel to create an interactive immersive visualization to provide insights
+- The interactive Dashboard transforms the data imported from excel to create an interactive immersive visualization to provide insights
