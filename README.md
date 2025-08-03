@@ -8,3 +8,4 @@ The Project Objective is to import an existing Excel file using real data into P
 -	What is the average salary of a Data Analyst in Canada?
 -	How many reported it being difficult to break into a data Driven Role?
 -	Which Job Title reported the highest in Happiness with Work/Life Balance?
+- <a href="https://github.com/alfredo2125/Data_Professional_Survey_Breakdown_AlexTheAnalyst/blob/main/Power%20BI%20Turtorial%20Project/Power%20BI%20Dashboard.png">Dashboard </a>
