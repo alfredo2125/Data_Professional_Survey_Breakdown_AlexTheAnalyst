@@ -8,4 +8,12 @@ The Project Objective is to import an existing Excel file using real data into P
 -	What is the average salary of a Data Analyst in Canada?
 -	How many reported it being difficult to break into a data Driven Role?
 -	Which Job Title reported the highest in Happiness with Work/Life Balance?
-- <a href="https://github.com/alfredo2125/Data_Professional_Survey_Breakdown_AlexTheAnalyst/blob/main/Power%20BI%20Turtorial%20Project/Power%20BI%20Dashboard.png">Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/alfredo2125/Data_Professional_Survey_Breakdown_AlexTheAnalyst/blob/main/Power%20BI%20Turtorial%20Project/Power%20BI%20Dashboard.png">Dashboard </a>
+## Process
+- Import the existing data located on github into Power BI.
+- Transform and clean the data by searching and correcting inconsistencies by changing data types, data formats, and values using Power Query Editor.
+-  Create an Interactive dashboard with the existing data using Power BI 
+# Dashboard
+<img width="1474" height="831" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/5a482e4d-c8b0-4b13-9c89-f03a1fa2452b" />
+# Conclusion
+- The interactive Dashboard created transforms the data imported from excel to create an interactive immersive visualization to provide insights
