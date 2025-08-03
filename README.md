@@ -1,6 +1,6 @@
 # Power BI- Project Tutorial (Interactive Dashboard creation using Power BI)
 ## Project Objective
-The Project Objective is to import an existing Excel file using real data into Power Query Editor to transform and clean data and develop visualizations using Power BI.
+The Project Objective is to import an existing Excel file using real data into Power Query Editor to transform and clean data and follow a step-by-step tutorial by AlexTheAnalyst to develop a visualization dashboard using Power BI.
 ## Dataset used (provided by AlextheAnalyst)
 - <a href="https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset </a>
 ## Dashboard Metrics that can be answered using the Interactive dashboard
@@ -24,4 +24,4 @@ The Project Objective is to import an existing Excel file using real data into P
 
 
 # Conclusion
-- The interactive Dashboard transforms the data imported from excel to create an interactive immersive visualization to provide insights
+- The interactive Dashboard developed transforms the data imported from excel to create an interactive immersive visualization
