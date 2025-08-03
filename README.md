@@ -16,5 +16,12 @@ The Project Objective is to import an existing Excel file using real data into P
 # Dashboard
 <img width="1474" height="831" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/5a482e4d-c8b0-4b13-9c89-f03a1fa2452b" />
 
+## Project Insights
+-	The US had the most surveys taken with a total of 261 surveys submitted
+-	The average salary of a Data Analyst in Canada is 60.8 thousand
+-	Over 156 reported it being difficult to break into a data driven role
+-	Database Developers reported highest in Happiness with Work/Life Balance
+
+
 # Conclusion
 - The interactive Dashboard created transforms the data imported from excel to create an interactive immersive visualization to provide insights
