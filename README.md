@@ -15,5 +15,6 @@ The Project Objective is to import an existing Excel file using real data into P
 -  Create an Interactive dashboard with the existing data using Power BI 
 # Dashboard
 <img width="1474" height="831" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/5a482e4d-c8b0-4b13-9c89-f03a1fa2452b" />
-## Conclusion
+
+# Conclusion
 - The interactive Dashboard created transforms the data imported from excel to create an interactive immersive visualization to provide insights
