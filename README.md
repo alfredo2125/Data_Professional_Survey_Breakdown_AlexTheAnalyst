@@ -19,7 +19,7 @@ The Project Objective is to import an existing Excel file using real data into P
 ## Project Insights
 -	The US had the most surveys taken with a total of 261 surveys submitted
 -	The average salary of a Data Analyst in Canada is 60.8 thousand
--	Over 156 reported it being difficult to break into a data driven role
+-	Over 156 people reported it being difficult to break into a data driven role
 -	Database Developers reported highest in Happiness with Work/Life Balance
 
 
